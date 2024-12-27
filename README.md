@@ -6,7 +6,7 @@ Welcome to my professional portfolio. I am a Senior Technical and Cybersecurity 
 
 - **Certifications**: [Explore certifications](projects/certifications/README.md)
 - **Projects**:
-  - [Wazuh & Greenbone Vulnerability Management](projects/wazuh-greenbone-vulnerability-management/description.md)
+  - [Wazuh & Greenbone Vulnerability Management](Projects/Wazuh-Greenbone-Vulnerability-Management/description.md)
   - [OSINT Investigation](projects/osint-investigation/description.md)
 
 ## Contact
